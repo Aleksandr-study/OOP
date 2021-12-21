@@ -1,0 +1,10 @@
+﻿  ArchiveElement.cpp
+  CatalogComposition.cpp
+  Date.cpp
+  File.cpp
+  Person.cpp
+  TextDocument.cpp
+  main.cpp
+C:\Users\Dell\source\repos\КурсоваяООП\КурсоваяООП\main.cpp(109,12): warning C4129: D: неизвестная escape-последовательность
+  Создание кода...
+  КурсоваяООП.vcxproj -> C:\Users\Dell\source\repos\КурсоваяООП\Debug\КурсоваяООП.exe
